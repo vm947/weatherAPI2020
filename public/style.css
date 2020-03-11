@@ -1,0 +1,14 @@
+#container-0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#container-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 75%;
+    height: 300px;
+}
